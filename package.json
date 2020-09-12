@@ -1,0 +1,26 @@
+{
+  "name": "project-vacations",
+  "version": "1.0.0",
+  "description": "The project dedicated to helping the employee to choose the best vacation period, take consideration the most duration possible days on vacations",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MaJoRShS/project-vacations.git"
+  },
+  "author": "Lucas M.Rodrigues",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MaJoRShS/project-vacations/issues"
+  },
+  "homepage": "https://github.com/MaJoRShS/project-vacations#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.27.0",
+    "nodemon": "^2.0.4",
+    "ws": "^7.3.1"
+  }
+}
